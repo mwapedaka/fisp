@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="cedaab70-4a4f-483a-826c-8ebee0f51a70">
+      <user-name>root</user-name>
+      <schema-pattern>fisp.*</schema-pattern>
+      <default-schemas>fisp.*</default-schemas>
+    </data-source>
+  </component>
+</project>
